@@ -5,6 +5,8 @@ export default function Contact() {
         <div>
             <h2>This is the Contact component</h2>
             <p>Welcome to the contact component</p>
+            <h3>Contact: +91 98765 43210</h3>
+            <h3>Email: contact@example.com</h3>
         </div>
     );
 }
